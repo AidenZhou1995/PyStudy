@@ -1,0 +1,9 @@
+Demands:
+
+1. Users can customized Daily Schedule;
+2. If users don't want to customized daily schedule,they can use template;
+3. There should be a points-scoring system,and it includes:
+    1) Daily Score
+    2) Summary of score in a week
+    3) The standard for evaluation
+4. 
